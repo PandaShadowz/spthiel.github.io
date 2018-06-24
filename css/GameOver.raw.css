@@ -157,12 +157,12 @@ body:before {
 	background: rgba(0,0,0,.7);
 }
 
-/* Guild scroller */
+/* Guild scroller 
 
 .guilds-wrapper {
 	background: rgba(0,0,0, .1);
 }
-
+*/
 /* Settings */
 
 .ui-standard-sidebar-view .sidebar-region{
@@ -309,7 +309,7 @@ body:before {
  *
  *
  */
-/*
+
 :not(.guilds-wrapper.DSAC-styled) .guilds-add > .guilds-add-inner {
  	font-size: 0 !important;
  }
@@ -367,7 +367,7 @@ body:before {
  :not(.guilds-wrapper.DSAC-styled) .guild.unread::before{
  	background: transparent ;
  }
-*/
+
 /***
  *       _____ _        _
  *      / ____| |      | |
